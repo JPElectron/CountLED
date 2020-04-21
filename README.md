@@ -16,9 +16,11 @@ View the default .ini file that's included.
 <b>.ini Settings:</b>
 
 ComPort=COM1
+
 Serial port that the K8063 is connected to
 
 Digits=2
+
 Number of LED units (minimum of 1 / normally 2, which is one K8063 kit / maximum of 255)
 
 <b>Usage:</b>
