@@ -2,6 +2,7 @@
 Used in conjunction with the Velleman K8063 to keep count of anything, the display is updated via command-line parameters.
 
 Tested on Windows XP, Server 2003, Vista, Server 2008, Windows 7
+
 A scripted install/uninstall is not included with this software.
 
 <b>Installation:</b>
