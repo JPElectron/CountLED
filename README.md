@@ -13,8 +13,6 @@ http://www.microsoft.com/en-us/download/details.aspx?id=1639
 2) Extract the contents of the .zip file
 3) Modify count.ini as indicated below
 
-View the default .ini file that's included.
-
 <b>.ini Settings:</b>
 
 ComPort=COM1
