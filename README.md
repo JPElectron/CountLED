@@ -6,7 +6,8 @@ A scripted install/uninstall is not included with this software.
 
 <b>Installation:</b>
 
-1) Ensure this prerequisite is installed: Microsoft .NET Framework 2.0 SP2 from http://www.microsoft.com/en-us/download/details.aspx?id=1639
+1) Ensure this prerequisite is installed: Microsoft .NET Framework 2.0 SP2
+http://www.microsoft.com/en-us/download/details.aspx?id=1639
 2) Extract the contents of the .zip file
 3) Modify count.ini as indicated below
 
