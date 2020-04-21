@@ -13,7 +13,7 @@ http://www.microsoft.com/en-us/download/details.aspx?id=1639
 
 View the default .ini file that's included.
 
-.ini Settings:
+<b>.ini Settings:</b>
 
 ComPort=COM1
 Serial port that the K8063 is connected to
