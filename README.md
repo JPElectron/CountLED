@@ -50,6 +50,9 @@ If the number that should be displayed exceeds the number of digits attached, al
 <b>Related Links:</b>
 
 Velleman K8063 manufacturer site - http://www.vellemanusa.com/us/enu/product/view/?id=522041
+
 One K8063 kit includes 2 digits and is available from...
+
 QualityKits - https://store.qkits.com/electronic-kits/led-and-lcd-clock-kits/velleman-k8063-2-digit-led-display-kit-with-serial-interface.html
+
 Amazon - https://www.amazon.com/Velleman-K8063-MODULAR-INTERFACE-PACKAGE/dp/B001IRV6LQ
