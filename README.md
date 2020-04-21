@@ -30,11 +30,17 @@ Run count.exe -U to up the display by 1
 List of accepted parameters...
 
 -U = Counts Up by 1
+
 -D = Counts Down by 1
+
 -B = Blanks every digit (off) but keeps the last count number
+
 -E = Sends the error display of an _ (underscore) to every digit
+
 -R = Resets every digit (all reperform the power-on self test, followed by ID display, followed by off)
+
 -LO or -HI = Sets the brightness across all digits (remembered until reset or power off)
+
 No argument = Every digit displays a 0 (zero) and the count is reset to start from 0
 
 If the number that should be displayed exceeds the number of digits attached, all digits will display _ (underscore) indicating an error, until the number falls back under the number of digits attached.
