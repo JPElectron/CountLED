@@ -1,0 +1,91 @@
+[Root]
+Most Recent Package=DNSRLed Setup
+
+
+[Package|DNSRLed Setup|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\JP\Desktop\dnsrled\InnoSetup
+
+[Package|DNSRLed Setup|Configure DAO ISAMs]
+Applicable=No
+
+[Package|DNSRLed Setup|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|DNSRLed Setup|Files Found]
+
+[Package|DNSRLed Setup|Files Released]
+
+[Package|DNSRLed Setup|Missing Dependency Information]
+
+[Package|DNSRLed Setup|Out-of-Date Dependency Information]
+
+[Package|DNSRLed Setup|Files Added]
+C:\Documents and Settings\JP\Desktop\dnsrled\count.ini=
+C:\Documents and Settings\JP\Desktop\dnsrled\count.dat=
+C:\Documents and Settings\JP\Local Settings\Temporary Internet Files\Content.IE5\GHIJKLMN\dnsrled[1].asp=
+
+[Package|DNSRLed Setup|Files Removed]
+
+[Package|DNSRLed Setup|Files In Project]
+C:\Documents and Settings\JP\Desktop\dnsrled\count.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\MSCOMM32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\JP\Desktop\dnsrled\count.ini=Yes
+C:\Documents and Settings\JP\Desktop\dnsrled\count.dat=Yes
+C:\Documents and Settings\JP\Local Settings\Temporary Internet Files\Content.IE5\GHIJKLMN\dnsrled[1].asp=Yes
+
+[Package|DNSRLed Setup|Configure Registry Files]
+Applicable=No
+
+[Package|DNSRLed Setup|Configure Remote Servers]
+Applicable=No
+
+[Package|DNSRLed Setup|Install Locations]
+C:\Documents and Settings\JP\Desktop\dnsrled\count.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\JP\Desktop\dnsrled\count.ini=$(AppPath)
+C:\Documents and Settings\JP\Desktop\dnsrled\count.dat=$(AppPath)
+C:\Documents and Settings\JP\Local Settings\Temporary Internet Files\Content.IE5\GHIJKLMN\dnsrled[1].asp=$(AppPath)
+
+[Package|DNSRLed Setup|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\JP\Desktop\dnsrled\count.exe=No
+C:\Documents and Settings\JP\Desktop\dnsrled\count.ini=No
+C:\Documents and Settings\JP\Desktop\dnsrled\count.dat=No
+C:\Documents and Settings\JP\Local Settings\Temporary Internet Files\Content.IE5\GHIJKLMN\dnsrled[1].asp=No
+
+[Package|DNSRLed Setup|Distribution]
+Type=single
+Size=
+Title=DNSRLED
+
+[Package|DNSRLed Setup|Package]
+PackageFolder=C:\Documents and Settings\JP\Desktop\dnsrled\InnoSetup
+ProjectFolder=C:\Documents and Settings\JP\Desktop\dnsrled
+ServerSideCab=
+File1=C:\Documents and Settings\JP\Desktop\dnsrled\InnoSetup\setup.exe
+File2=C:\Documents and Settings\JP\Desktop\dnsrled\InnoSetup\Setup.Lst
+File3=C:\Documents and Settings\JP\Desktop\dnsrled\InnoSetup\count.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
