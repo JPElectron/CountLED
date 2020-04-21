@@ -24,6 +24,8 @@ Digits=2
 
 Number of LED units (minimum of 1 / normally 2, which is one K8063 kit / maximum of 255)
 
+[1]  or  [1][2]  or  [1][2][3][4][5]...
+
 <b>Usage:</b>
 
 Digits should be addressed from left to right looking at the front of the display, starting with 1
